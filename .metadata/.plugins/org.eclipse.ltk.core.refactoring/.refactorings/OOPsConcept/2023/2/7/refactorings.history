@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public static void anotherMethod()&apos; from &apos;com.prowings.polymorphism.exception.TestException.mymethod()&apos; to &apos;com.prowings.polymorphism.exception.TestException&apos;&#x0D;&#x0A;- Original project: &apos;OOPsConcept&apos;&#x0D;&#x0A;- Method name: &apos;anotherMethod&apos;&#x0D;&#x0A;- Destination type: &apos;com.prowings.polymorphism.exception.TestException&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;anotherMethod&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.prowings.polymorphism.exception{TestException.java" name="anotherMethod" replace="false" selection="469 15" stamp="1676299194749" version="1.0" visibility="1"/>
+</session>

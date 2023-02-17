@@ -1,0 +1,18 @@
+package com.prowings.polymorphism.exception;
+
+public class Exception {
+
+	public static void main(String[] args) {
+		System.out.println("main method started");
+		try {
+		int result=10/0;
+		System.out.println(result);
+		}
+		catch(ArithmeticException obj) {
+			System.out.println("can not perform ");
+		}
+		
+		System.out.println("main method ended");
+		
+	}
+}
