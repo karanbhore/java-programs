@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.prowings.codePumkin.Employee"/>
-    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
@@ -21,7 +17,6 @@
     <fullyQualifiedTypeName name="abstraction.AtmDemo"/>
     <fullyQualifiedTypeName name="com.prowings.inheritance.Bicycle"/>
     <fullyQualifiedTypeName name="com.prowings.inheritance.MountainBike"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.prowings.interface1.TestClass"/>
     <fullyQualifiedTypeName name="com.prowings.interface1.D"/>
     <fullyQualifiedTypeName name="com.prowings.interface1.BaseClass"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="com.prowings.practise.ProStudent1"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="com.prowings.practise.B"/>
+    <fullyQualifiedTypeName name="com.prowings.practise.A"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
